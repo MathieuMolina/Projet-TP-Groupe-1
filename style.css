@@ -1,0 +1,69 @@
+/* General */
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+:root {
+    --bloc-color: #393E46;
+    --inbloc-color: #515863;
+    --text-color: #1B87D6;
+    --hover-color: #02D1FF;
+    --white-color: #EEEEEE;
+}
+
+
+
+/* Titres */
+
+
+
+h3{
+    margin-top: 10px;
+    font-size: 40px;
+    color: var(--text-color);
+    text-align: center;
+}
+
+/* Textes */
+
+p{
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+.text{
+    text-align: left;
+    margin: 20px;
+}
+
+
+
+/* Header */
+
+
+
+/* MAIN */
+
+
+/* Section 1 */
+
+.cadre{
+    display: flex;
+    margin-top: 50px;
+    width: 100%;
+    background-color: #393E46;
+}
+.cadre2{
+    display: flex;
+    width: 100%;
+    background-color: #515863;
+    height: 150px;
+}
+
+
+.imageV1{
+    height: 100%;
+    width: 100%;
+}
